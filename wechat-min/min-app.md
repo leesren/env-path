@@ -33,8 +33,7 @@
 
 # 导航相关
 ## bar
-* [navbar](#navbar)
-# 搜索相关
+* [navbar](#navbar) 
 * [searchbar](#searchbar)
 
 
@@ -71,7 +70,7 @@
 
 [返回](#baseui)
 ## badge
-![](./img/badge.png)
+![](./img/Badge.png)
 
 [返回](#baseui)
 ## footer
